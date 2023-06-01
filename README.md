@@ -29,10 +29,10 @@ This repository serves as a central hub for all the exercises, projects, and cod
 
 The repository includes various projects completed as part of the courses, demonstrating practical applications of Python programming concepts. Some of the projects include:
 
-1. Project 1: [Band Name Generator](Projects/Band name Generator.py) - Generates A Name for your Band
+1. Project 1: [Band Name Generator](/Projects/Band%20name%20Generator.py) - Automatically Generates A Band Name based on Users Input.
 2. Project 2: [Project Name](/projects/project2) - A brief description of the project.
 3. Project 3: [Project Name](/projects/project3) - A brief description of the project.
-   <!-- Add more projects as needed -->
+   <!-- Addding more projects as needed -->
 
 Each project folder contains the source code, documentation, and any additional resources required to understand and run the project.
 
